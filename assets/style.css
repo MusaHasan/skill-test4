@@ -1,0 +1,40 @@
+.my-nav a, .my-nav button, .my-nav p{
+    color:whitesmoke;
+}
+.my-nav button{
+    background-color: rgba(250, 250, 250, 0.445);
+    border-radius: 15%;
+    border: 0ch;
+}
+.nav-divider{
+    height: 5px;
+    width: 100%;
+    background-color:  #07070748;
+}
+
+
+.header-elements{
+    margin-top: 7rem;
+}
+.header-elements-text{
+    padding-left:4%;
+}
+
+
+.container2row{
+    margin-bottom: 3rem;
+    margin-left: 4%;
+}
+.container2txt1{
+    margin: 10rem 0rem 5rem;
+}
+.container2txt2{
+    margin-top: 15px;
+}
+.container2btn{
+    padding: 15px 28px; 
+    margin: 0px 4rem 0 15rem; 
+    background-color: #108AF9; 
+    border-radius: 3%;
+    color: #fff;
+}
